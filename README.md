@@ -9,6 +9,7 @@ I also love chatting with people. Have you ever wondered what is <a href="https:
 Now that we are no longer strangers, with any further questions or inquiry don't hesitate to reach out via email dk4994@princeton.edu
 
 Sincerely,
+
 Daeun
 
 <strong>Where am I now: Munich, Germany</strong>
