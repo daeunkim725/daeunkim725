@@ -1,6 +1,7 @@
 ## Hi Stranger 👋
 
 <a href="https://blogs.ams.org/phdplus/2015/04/28/coffee-into-theorems/">I am a machine for turning coffee into theorems.</a>
+
 I enjoy doing research that might lead some to ask, "when am I ever going to use this?"
 <!--
 **daeunkim725/daeunkim725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
