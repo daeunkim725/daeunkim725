@@ -1,4 +1,4 @@
-## Dear Stranger 👋
+## 💌 Dear Stranger,
 
 <a href="https://blogs.ams.org/phdplus/2015/04/28/coffee-into-theorems/">I am a machine for turning coffee into theorems.</a> ☕
 
