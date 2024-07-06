@@ -12,7 +12,7 @@ Sincerely,
 
 Daeun
 
-## FAQ
+## FAQ (last updated: July 1st, 2024)
 <strong>Where am I now: Munich, Germany</strong>
 
 <strong>What are you doing: Doing applied math + AGI research @ DLR</strong>
