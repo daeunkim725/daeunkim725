@@ -6,6 +6,9 @@ My name is Daeun, a rising junior at Princeton studying Applied Math and Enginee
 
 I also love chatting with people. Have you ever wondered what is <a href="https://en.wikipedia.org/wiki/Sun-Yung_Alice_Chang">Alice Chang</a>'s favorite flavor of cake is? (A: It's chocolate cherry!) or Grothendieck's perferred method of communication with <a href="https://en.wikipedia.org/wiki/Nick_Katz">Nick Katz</a>? Well I'm still trying figure that out.
 
+## Where am I now: Munich, Germany
+## What are you doing: Doing applied math + AGI research @ DLR
+
 <!--
 **daeunkim725/daeunkim725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
