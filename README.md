@@ -1,6 +1,6 @@
 ## Hi Stranger 👋
 
-<a href="https://blogs.ams.org/phdplus/2015/04/28/coffee-into-theorems/">I am a machine for turning coffee into theorems.</a>
+<a href="https://blogs.ams.org/phdplus/2015/04/28/coffee-into-theorems/">I am a machine for turning coffee into theorems.</a> ☕
 
 I enjoy doing research that might lead some to ask, "when am I ever going to use this?"
 <!--
