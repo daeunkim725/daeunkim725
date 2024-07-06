@@ -2,9 +2,9 @@
 
 <a href="https://blogs.ams.org/phdplus/2015/04/28/coffee-into-theorems/">I am a machine for turning coffee into theorems.</a> ☕
 
-My name is Daeun, a rising junior at Princeton studying Applied Math and Engineering. I spend most of my time at <a href="https://www.dailyprincetonian.com/article/2022/11/tea-fine-hall-math-professor-students"> Fine Hall</a> where I share a cup of coffee with the greatest minds of this generation discussing very useless, yet beautiful things. I enjoy doing research that might lead some to ask, "when am I ever going to use this?" 
+My name is Daeun, a rising junior at Princeton studying Applied Math and Engineering. I spend most of my time at <a href="https://www.dailyprincetonian.com/article/2022/11/tea-fine-hall-math-professor-students"> Fine Hall</a> where I share a cup of coffee with the greatest minds of this generation discussing very useless, yet beautiful things. I enjoy doing research that might lead some to ask, "when am I ever going to use this?" Through my journey in college, I have found a way to channel my learnings to the real world through Quant Finance and AGI research. 
 
-Through my journey in college, I have found a way to channel my learnings to the real world through Quant Finance and AGI research.
+I also love chatting with people. Have you ever wondered what is <a href="https://en.wikipedia.org/wiki/Sun-Yung_Alice_Chang">Alice Chang</a>'s favorite flavor of cake is? (A: It's chocolate cherry!) or Grothendieck's perferred method of communication with <a href="https://en.wikipedia.org/wiki/Nick_Katz">Nick Katz</a>? Well I'm still trying figure that out.
 
 <!--
 **daeunkim725/daeunkim725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
