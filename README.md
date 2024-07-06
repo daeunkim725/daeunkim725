@@ -15,9 +15,11 @@ Sincerely,
 Daeun
 
 ## FAQ (last updated: July 1st, 2024)
-<strong>Where am I now: Munich, Germany</strong>
+<strong>Languages: </strong>Python, JAVA, R
 
-<strong>What are you doing: Doing applied math + AGI research @ DLR</strong>
+<strong>Where am I now: </strong> Munich, Germany
+
+<strong>What are you doing: </strong> Doing applied math + AGI research @ DLR
 
 <!--
 **daeunkim725/daeunkim725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
