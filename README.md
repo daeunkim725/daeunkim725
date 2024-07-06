@@ -12,6 +12,7 @@ Sincerely,
 
 Daeun
 
+## FAQ
 <strong>Where am I now: Munich, Germany</strong>
 
 <strong>What are you doing: Doing applied math + AGI research @ DLR</strong>
