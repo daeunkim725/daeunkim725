@@ -22,7 +22,7 @@ Most of my life I was commited to become a professional <a href="https://images.
 
 <strong>What are you doing: </strong> Doing applied math + AGI research @ DLR
 
-<strong>Go to In-N-Out order: </strong> Double-Double Animal Protein style with fries (add a slice a cheese at home)
+<strong>Go-to In-N-Out order: </strong> Double-Double Animal Protein style with fries (add a slice a cheese at home)
 
 <!--
 **daeunkim725/daeunkim725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
