@@ -15,10 +15,10 @@ Daeun
 ## GO > Poker?
 Most of my life I was commited to become a professional <a href="https://images.app.goo.gl/YTUvCLMKQM1kAypf6">Go player in Korea like my dad</a>. Now, I play Go whenever I can with my friends at Princeton. I find Go to be an amazing puzzle of math, intuition, and preservation which I hope everyone tries out sometime.
 
-## FAQ (last updated: July 1st, 2024)
+## FAQ (last updated: Aug 12th, 2024)
 <strong>Languages: </strong>Python, JAVA, R
 
-<strong>Where am I now: </strong> Munich, Germany
+<strong>Where am I now: </strong> Zurich, Switzerland
 
 <strong>What are you doing: </strong> Doing applied math + AGI research @ DLR
 
